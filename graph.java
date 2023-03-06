@@ -1,6 +1,5 @@
 import java.util.*;//* = LinkedList 
-//import java.io.*; for user input
-import java.util.Scanner; //to scan file
+import java.util.Scanner; //to user input
 
 public class graph{
     int nodes;
